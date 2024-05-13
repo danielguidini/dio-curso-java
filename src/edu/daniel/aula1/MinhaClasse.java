@@ -1,3 +1,5 @@
+package edu.daniel.aula1;
+
 import org.jetbrains.annotations.NotNull;
 
 public class MinhaClasse {
